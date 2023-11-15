@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @levisyin
 - 👀 I’m interested in opensource
-- 🌱 I’m currently learning python & go
+- 🌱 I’m currently learning python & go & rust
 - 💞️ I’m looking to collaborate on crypto
 - 📫 Nice to be here.
 
