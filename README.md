@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @levisyin
-- 👀 I’m interested in opensource
-- 🌱 I’m currently learning python & go & rust
-- 💞️ I’m looking to collaborate on crypto
-- 📫 Nice to be here.
+Here comes the @levisyin 😎
+
+![image](https://github.com/levisyin/levisyin/assets/150114626/4d4b3505-47a4-42be-8176-dcec39dc2069)
+
 
 <!---
 levisyin/levisyin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
